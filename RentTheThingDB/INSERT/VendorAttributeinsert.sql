@@ -1,0 +1,1 @@
+insert into VendorAttribute values(4,'128578464839','784YH9873IOL','Dobariya Renters','www.DobariyaRenters.com');

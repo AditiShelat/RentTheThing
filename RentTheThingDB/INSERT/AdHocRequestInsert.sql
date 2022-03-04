@@ -1,0 +1,1 @@
+insert into AdHocRequest values(3,'Shoes','I want a yellow and blue color shoes','4 march 2022',1),(3,'Lehanga','I want a yellow color Lehanga','4 march 2022',1);

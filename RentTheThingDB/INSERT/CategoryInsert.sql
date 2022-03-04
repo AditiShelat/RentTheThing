@@ -1,0 +1,1 @@
+insert into Category values('Clothing'),('Books');

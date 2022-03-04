@@ -1,0 +1,1 @@
+insert into CityDetail values('Surat','Gujarat','India'),('Pune','Maharashtra','India'),('Mumbai','Maharashtra','India');

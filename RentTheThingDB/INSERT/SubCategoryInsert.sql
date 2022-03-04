@@ -1,0 +1,1 @@
+insert into SubCategory values('Wedding Wear',1),('Party Wear',1),('Biography',2),('Suspence and Thriller',2);

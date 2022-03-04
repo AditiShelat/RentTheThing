@@ -1,0 +1,1 @@
+insert into ProductInventory values(10,12,'4 march 2022'),(11,8,'4 march 2022'),(12,9,'4 march2022');

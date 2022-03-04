@@ -1,0 +1,3 @@
+insert into Products values(3,'Suit',6,1,1500,'suit.jpg','A traditional black tuxedo (or a nice suit) works for a ballroom wedding. A sharply tailored tux paired with a white dress shirt, black vest or cummerbund, shirt studs and a black bow tie is a timeless classic.',2000,10,8000),
+(3,'BridaL Lehanga',6,2,3000,'lehanga.jpg','Different patterns and styles of traditional embroidery are used to decorate the lehenga.',2500,3,10000),
+(4,'Gandhi A Biography',6,2,150,'book1.jpg','This is a pictorial biography of Gandhi in which readable and incisive-is illustrated with photographs and adding up to a fascinating flash-back on the life of Mahatma Gandhi and the struggle of Indian freedom led by him.',50,6,350);

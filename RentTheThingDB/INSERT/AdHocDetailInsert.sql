@@ -1,0 +1,1 @@
+insert into AdHocDetail values(1,1,'M'),(1,2,'Yellow'),(2,2,'Yellow');
